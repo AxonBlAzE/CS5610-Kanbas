@@ -3,7 +3,7 @@ import './App.css';
 import Accounts from './Accounts';
 import Profile from './Profile';
 import Dashboard from './Dashboard';
-import Courses from './Courses';
+import Courses from './Courses/index';
 
 function App() {
   return (
